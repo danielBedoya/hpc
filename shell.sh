@@ -4,6 +4,6 @@ do
 
 	for j in {50000, 100000, 200000, 300000, 400000, 500000, 600000, 700000, 800000, 900000, 1000000}
 	do
-		mpirun -hostfile hosts --prefix /home/cluster/mirror/mpi -np 3 dbmpi1 $j >> dbmpi1.csv
+		mpirun -hostfile hosts --prefix /home/cluster/mirror/mpi -np 3 dbmpi1 $j >> dbmpi12.csv
 	done
 done

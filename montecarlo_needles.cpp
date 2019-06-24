@@ -30,23 +30,22 @@ int monte_carlo(int t, int l, int s){
         }
     }
     return total;
-    return (2.0*s*t)/(l*total);
 }
 
 int main(int argc, char *argv[]){
     int n, t, l, s, rank, size, pi2, pi2total=0, rc;
     double t1, t2, tf;   // number of throws, dist between lines and 
-    t = (argc > 2 ? atoi(argv[2]) : 100000);
-    l = (argc > 3 ? atoi(argv[3]) : 30);
-    s = (argc > 4 ? atoi(argv[4]) : 10);
-    
+    t = (argc > 1 ? atoi(argv[1]): 100000);
+    l = (argc > 2 ? atoi(argv[2]): 30);
+    s = (argc > 3 ? atoi(argv[3]): 10);
+
     t1=MPI_Wtime();
     MPI_Init(&argc,&argv);
     MPI_Comm_size(MPI_COMM_WORLD,&size);
     MPI_Comm_rank(MPI_COMM_WORLD,&rank);
 
     if(rank==0){
-        pi2 = monte_carlo(t-((t/3)*3), l, s);
+        pi2 = monte_carlo(t-((t/3)*3)+(t/3), l, s);
     }else{
         pi2 = monte_carlo(t/3, l, s);
     }
@@ -57,7 +56,7 @@ int main(int argc, char *argv[]){
     t2=MPI_Wtime();
 
     if(rank==0){
-        double pi3 = (4.0*double(actotal))/double(t);
+	double pi3 = (2.0*s*t)/(l*double(pi2total));
         tf=t2-t1;
         cout << t <<";"<< fixed << setprecision(10) << pi3 << ";" << tf << endl;
     }

@@ -1,0 +1,109 @@
+0;-nan;0.166258100000;3.145800;0.113170200000;3.139660;0.118242300000;3.139493;0.121229400000;3.141250;0.119586500000;3.141136;0.121072600000;3.141020;0.124232700000;3.142931;0.677399800000;3.141145;0.130323900000;3.142956;0.1314791000000;3.142452;0.1299340;-nan;0.119335100000;3.148800;0.118700200000;3.139180;0.113480300000;3.142440;0.114380400000;3.145570;0.118308500000;3.141984;0.122006600000;3.143873;0.135898700000;3.143097;0.126954800000;3.141415;0.129836900000;3.143613;0.1339311000000;3.141432;0.1357700;-nan;0.117900100000;3.140680;0.174704200000;3.144520;0.113502300000;3.137907;0.121068400000;3.144560;0.118748500000;3.135088;0.123986600000;3.142367;0.116791700000;3.138246;0.123014800000;3.140985;0.128251900000;3.143951;0.1337411000000;3.140652;0.1348090;-nan;0.123214100000;3.132640;0.114173200000;3.136440;0.114416300000;3.137947;0.117794400000;3.139360;0.120005500000;3.142528;0.128769600000;3.140340;0.129750700000;3.142891;0.128686800000;3.141055;0.129117900000;3.142044;0.1354381000000;3.139820;0.1341540;-nan;0.122880100000;3.147960;0.110654200000;3.143300;0.126946
+A process or daemon was unable to complete a TCP connection
+to another process:
+  Local host:    node3
+  Remote host:   head
+This is usually caused by a firewall on the remote host. Please
+check that any firewall (e.g., iptables) has been disabled and
+try again.
+------------------------------------------------------------
+------------------------------------------------------------
+A process or daemon was unable to complete a TCP connection
+to another process:
+  Local host:    node3
+  Remote host:   head
+This is usually caused by a firewall on the remote host. Please
+check that any firewall (e.g., iptables) has been disabled and
+try again.
+------------------------------------------------------------
+------------------------------------------------------------
+A process or daemon was unable to complete a TCP connection
+to another process:
+  Local host:    node3
+  Remote host:   head
+This is usually caused by a firewall on the remote host. Please
+check that any firewall (e.g., iptables) has been disabled and
+try again.
+------------------------------------------------------------
+------------------------------------------------------------
+A process or daemon was unable to complete a TCP connection
+to another process:
+  Local host:    node3
+  Remote host:   head
+This is usually caused by a firewall on the remote host. Please
+check that any firewall (e.g., iptables) has been disabled and
+try again.
+------------------------------------------------------------
+------------------------------------------------------------
+A process or daemon was unable to complete a TCP connection
+to another process:
+  Local host:    node1
+  Remote host:   head
+This is usually caused by a firewall on the remote host. Please
+check that any firewall (e.g., iptables) has been disabled and
+try again.
+------------------------------------------------------------
+------------------------------------------------------------
+A process or daemon was unable to complete a TCP connection
+to another process:
+  Local host:    node2
+  Remote host:   head
+This is usually caused by a firewall on the remote host. Please
+check that any firewall (e.g., iptables) has been disabled and
+try again.
+------------------------------------------------------------
+------------------------------------------------------------
+A process or daemon was unable to complete a TCP connection
+to another process:
+  Local host:    node2
+  Remote host:   head
+This is usually caused by a firewall on the remote host. Please
+check that any firewall (e.g., iptables) has been disabled and
+try again.
+------------------------------------------------------------
+------------------------------------------------------------
+A process or daemon was unable to complete a TCP connection
+to another process:
+  Local host:    node1
+  Remote host:   head
+This is usually caused by a firewall on the remote host. Please
+check that any firewall (e.g., iptables) has been disabled and
+try again.
+------------------------------------------------------------
+------------------------------------------------------------
+A process or daemon was unable to complete a TCP connection
+to another process:
+  Local host:    node2
+  Remote host:   head
+This is usually caused by a firewall on the remote host. Please
+check that any firewall (e.g., iptables) has been disabled and
+try again.
+------------------------------------------------------------
+------------------------------------------------------------
+A process or daemon was unable to complete a TCP connection
+to another process:
+  Local host:    node1
+  Remote host:   head
+This is usually caused by a firewall on the remote host. Please
+check that any firewall (e.g., iptables) has been disabled and
+try again.
+------------------------------------------------------------
+------------------------------------------------------------
+A process or daemon was unable to complete a TCP connection
+to another process:
+  Local host:    node1
+  Remote host:   head
+This is usually caused by a firewall on the remote host. Please
+check that any firewall (e.g., iptables) has been disabled and
+try again.
+------------------------------------------------------------
+------------------------------------------------------------
+A process or daemon was unable to complete a TCP connection
+to another process:
+  Local host:    node2
+  Remote host:   head
+This is usually caused by a firewall on the remote host. Please
+check that any firewall (e.g., iptables) has been disabled and
+try again.
+------------------------------------------------------------
+800000;3.138805;0.185431900000;3.140298;0.1352651000000;3.141756;0.1291700;-nan;0.120006100000;3.143600;0.101648200000;3.140100;0.118205300000;3.137453;0.123800400000;3.136740;0.130393500000;3.145912;0.120652600000;3.142587;0.128834700000;3.141257;0.127869800000;3.142165;0.130964900000;3.139711;0.1341011000000;3.140656;0.1369130;-nan;0.116997100000;3.135360;0.124051200000;3.144180;0.122572300000;3.143307;0.120846400000;3.143370;0.122328500000;3.141760;0.136488600000;3.145227;0.123221700000;3.139760;0.133882800000;3.138745;0.131167900000;3.139987;0.1365551000000;3.143948;0.1363520;-nan;0.123403100000;3.146320;0.110153200000;3.147040;0.110350300000;3.137160;0.122278400000;3.141920;0.121733500000;3.138344;0.125732600000;3.140700;0.126280700000;3.141526;0.131278800000;3.140980;0.124613900000;3.142600;0.1315841000000;3.138344;0.1312520;-nan;0.111187100000;3.136240;0.111328200000;3.144720;0.115831300000;3.139413;0.116571400000;3.142180;0.120849500000;3.141752;0.125962600000;3.141167;0.131088700000;3.143806;0.127432800000;3.141255;0.128654900000;3.141591;0.1400461000000;3.143024;0.1384310;-nan;0.118627100000;3.144560;0.125204200000;3.145100;0.112612300000;3.139400;0.117807400000;3.139330;0.116912500000;3.139936;0.127544600000;3.142373;0.121550700000;3.144103;0.129555800000;3.143590;0.129682900000;3.140787;0.1311731000000;3.141188;0.137674
