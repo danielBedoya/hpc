@@ -117,7 +117,7 @@ int main (int argc, char *argv[]){
 			}
 			printf("\n");*/
 
-			printf("Velocidad %f\n", speed/cars);
+			printf("%f;", speed/cars);
 		}
 	}     
 	else {
@@ -159,7 +159,7 @@ int main (int argc, char *argv[]){
 	if (taskid== MASTER){
     	t2=MPI_Wtime();
     	tf=t2-t1;  
-   		printf("Time %.11f\n", tf);  
+   		printf("%.8f;\n", tf);  
 	}
 	return 0;
 }
